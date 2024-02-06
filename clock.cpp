@@ -1,3 +1,9 @@
+/********************************************
+* File: clock.cpp
+* Author: Kane Miller
+* Date: 2024-02-04
+********************************************/
+
 #include <iostream>
 #include <tuple>
 #include <iomanip>
